@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Co",
+				"Controller"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"pr",
+				"productId"
+			],
+			[
+				"Rout",
+				"Route::delete\tBasic Delete Route."
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Route",
+				"Route::put\tBasic Put Route."
+			],
+			[
+				"route",
+				"Route"
+			],
+			[
+				"product",
+				"productId"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"he",
+				"hero"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"remv",
+				"removeClass"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"part",
+				"partner-form"
+			],
+			[
+				"strmslide",
+				"strm-slide"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mater",
+				"Activate Materialize Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 958.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/clvz/2tb/laravel/material-angular-laravel",
+		"/home/clvz/2tb/laravel/material-angular-laravel/app",
+		"/home/clvz/2tb/laravel/material-angular-laravel/app/Exceptions"
+	],
+	"file_history":
+	[
+		"/home/clvz/2tb/laravel/material-angular-laravel/app/Http/Controllers/ArticleController.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/database/seeds/DatabaseSeeder.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/routes/api.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/database/seeds/ArticlesTableSeeder.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/database/seeds/UsersTableSeeder.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/app/Article.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/database/migrations/2018_02_21_120118_create_articles_table.php",
+		"/home/clvz/2tb/work_assets/rabalux/sap-xml",
+		"/home/clvz/2tb/laravel/material-angular-laravel/angular/services/posts.service.ts",
+		"/home/clvz/2tb/laravel/material-angular-laravel/app/Http/Controllers/PostsController.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/database/factories/ModelFactory.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/tests/GetAllPostsTest.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/database/migrations/2018_02_20_092833_create_posts_table.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/angular/index.components.js",
+		"/home/clvz/2tb/laravel/material-angular-laravel/tests/angular/app/components/list_users.component.spec.js",
+		"/home/clvz/2tb/laravel/tozsde1/resources/assets/js/app.js",
+		"/home/clvz/2tb/laravel/material-angular-laravel/bootstrap/app.php",
+		"/home/clvz/2tb/laravel/material-angular-laravel/.env",
+		"/home/clvz/2tb/laravel/tozsde2/.env",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/edumart.opdev.eu/wp-content/themes/edumart/template/blog-egyensuly.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/edumart.opdev.eu/wp-content/themes/edumart/template/blog-default.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/edumart.opdev.eu/wp-content/themes/edumart/template/blog.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/resources/views/welcome.blade.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/resources/assets/js/app.js",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/routes/api.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/resources/assets/js/components/Main.js",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/resources/assets/js/components/Product.js",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/app/Http/Controllers/ProductsController.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/app/Exceptions/Handler.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/database/seeds/DatabaseSeeder.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/app/Product.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/database/seeds/ProductsTableSeeder.php",
+		"/home/clvz/2tb/vm-boxes/please/public/index.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/.env",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/app/Providers/AppServiceProvider.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/database/seeds/UsersTableSeeder.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/database/migrations/2018_02_18_143232_create_products_table.php",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/heroes/heroes.component.html",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/app.module.ts",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/app.component.html",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/table/table.component.ts",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/heroes/heroes.component.css",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/mock.heroes.ts",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/heroes/heroes.component.ts",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/app.component.css",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/table/table.component.html",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/table/table.component.css",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/heroes/mock.heroes.ts",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/hero.ts",
+		"/home/clvz/2tb/nodejs/lorant-angular/src/app/app.component.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/app/app-routing.module.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/app/app.component.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/app/examples/examples.module.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/app/exchange/exchange.module.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/app/app.component.html",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/index.html",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/app/settings/settings/settings.component.html",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.hu/frontend/src/themes/default-theme.scss",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/examples-routing.module.ts",
+		"/run/user/1000/gvfs/sftp:host=139.162.150.28,user=calvez/home/calvez/www/cotiso.aiee.hu/tmp/filerLe1Wy",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/examples/examples.component.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/examples.module.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/app.component.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/exchange/exchange.component.html",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/exchange/exchange.component.ts",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/exchange/exchange.component.scss",
+		"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app/examples/theming/parent/parent.component.html",
+		"/home/clvz/2tb/vm-boxes/please/public/data.tozsdejatek.hu/.env",
+		"/home/clvz/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/template/listview.tpl",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/config.local.inc.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/utils/common.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/utils/db.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/js/frontend_listview.js",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/js/frontend_listview.js",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/module/backend/orders_fv.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/template/hetinyertes.tpl",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/autofixp.php",
+		"/home/clvz/2tb/tozsde/deploy/tozsdejatek160912/js/frontend_listview.js",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/strm.hu/assets/themes/tana_child/functions.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/strm.hu/assets/themes/tana_child/style.css",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/views/common/footer.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/views/common/topnav.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/views/common/header.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/config/routes.php",
+		"/home/clvz/2tb/work_assets/rabalux/backup/form/form/form.html",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/assets/css/aiee.css",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/controllers/Page.php",
+		"/home/clvz/2tb/work_assets/rabalux/backup/20180112/application/views/pages/static.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/admin/application/views/login.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/views/pages/partnerreg.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/admin/index.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/assets/js/jquery.timepicker.min.js",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/assets/js/jquery.businessHours.min.js",
+		"/home/clvz/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/clvz/2tb/work_assets/rabalux/backup/20180112/application/views/pages/partnerreg.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/rabalux.aiee.hu/application/views/pages/frontend.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/strm.hu/assets/themes/tana/includes/vc-elements/magazin-slider-news.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/module/frontend/doregister.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/05.5-reszvenyesi-jogok-es-tarsasagi-esemenyek/chapter.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/06.6-tozsdei-informaciok/01.tozsdei-informaciok/docs.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/04.4-a-tozsdei-kereskedes-menete/chapter.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/05.5-reszvenyesi-jogok-es-tarsasagi-esemenyek/01.reszvenyesi-jogok-es-tarsasagi-esemenyek/docs.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/03.3-befektetesi-szolgaltato-szerepe/01.01/docs.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/02.2-miert-tozsdezzunk/tozsde/docs.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/02.2-miert-tozsdezzunk/chapter.md",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/abc/user/pages/03.3-befektetesi-szolgaltato-szerepe/chapter.md",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/strm.hu/assets/themes/tana/functions.php",
+		"/home/clvz/2tb/vm-boxes/please/public/strm.local.dev/wp-content/themes/tana/includes/vc-elements/magazin-slider-news.php",
+		"/home/clvz/2tb/vm-boxes/please/public/strm.local.dev/wp-content/themes/tana/includes/vc-elements/magazin-slider.php",
+		"/home/clvz/2tb/vm-boxes/please/public/strm.local.dev/wp-content/themes/tana/includes/vc-elements/movie-slider.php",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/target7.clvz.hu/sites/all/themes/jango_sub/css/custom.css",
+		"/run/user/1000/gvfs/sftp:host=178.79.133.57,user=websites/home/websites/web/target7.clvz.hu/sites/all/themes/jango_sub/templates/tb-megamenu-column.tpl.php",
+		"/tmp/mozilla_clvz0/6754.png",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/tozsdejatek-dev/template/toplist.tpl",
+		"/home/clvz/Dokumentumok/het.csv",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/module/frontend/toplist.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/autofixa.php",
+		"/home/clvz/2tb/vm-boxes/please/public/adminer.local.hu/2018/0208/dev-mnbgame-20180208-003105.sql",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/autofixd.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/autofix.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/config.inc.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/utils/common.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/templatecfg.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/config.local.inc.php",
+		"/run/user/1000/gvfs/sftp:host=185.12.5.75,user=mnbgame/mnt/data/home/mnbgame/www/betgame/autofixp.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.local.hu/utils/db.php",
+		"/home/clvz/2tb/vm-boxes/please/public/tozsdejatek.local.hu/config.inc.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app",
+			"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src",
+			"/home/clvz/2tb/vm-boxes/please/public/front.tozsdejatek.hu/src/app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"];",
+			"stock market",
+			"Theming",
+			"mat-tab-links"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "material-angular-laravel.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"arti",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"artic",
+				"app/Http/Controllers/ArticleController.php"
+			],
+			[
+				"getpos",
+				"tests/GetAllPostsTest.php"
+			],
+			[
+				"list_use",
+				"tests/angular/app/components/list_users.component.spec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

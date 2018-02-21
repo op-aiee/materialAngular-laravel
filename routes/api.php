@@ -25,3 +25,10 @@ Route::post('auth/password/reset', 'Auth\PasswordResetController@reset');
 Route::get('/user', function (Request $request) {
     return $request->user();
 })->middleware('auth:api');
+
+
+Route::get('articles', 'ArticleController@index');
+Route::get('articles/{article}', 'ArticleController@show');
+Route::post('articles', 'ArticleController@store');
+Route::put('articles/{article}', 'ArticleController@update');
+Route::delete('articles/{article}', 'ArticleController@delete');
